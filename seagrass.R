@@ -25,7 +25,7 @@ mytheme <- theme(panel.background = element_blank(),
 
 #### Meta-analysis
 ### Load data
-loss <- read.csv("~/Desktop/Plymouth University/OS307/Seagrass/Data/Meta/loss.csv")
+loss <- read.csv("~/PATH/loss.csv")
 
 ### Overall
 ## Calculate Hedges' g and associated variables
