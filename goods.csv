@@ -1,0 +1,11 @@
+source,USD.yr,sector,treatment,reference
+tourism,907635014.8,private,degradation,"Vogt (2001), Statistics Mauritius (2018)"
+diving,6314560.703,private,conservation,"Vogt (2001), Statistics Mauritius (2018)"
+fisheries,102472831,private,conservation,Statistics Mauritius (2018)
+emissions,-54505202.27,public,degradation,"Pendleton et al. (2012), Nordhaus (2017), Turner and Klaus (2005)"
+restoration,-838072585.2,public,degradation,"Turner and Klaus (2005), Bayraktarov et al. (2016)"
+diving,6314560.703,public,conservation,"Vogt (2001), Statistics Mauritius (2018)"
+fisheries,102472831,public,conservation,Statistics Mauritius (2018)
+erosion,115424400,public,conservation,"Turner and Klaus (2005), Costanza et al. (2014)"
+sequestration,1038516.739,public,conservation,"Turner and Klaus (2005), Duarte et al. (2013), Duarte and Krause-Jensen (2017), Nordhaus (2017)"
+nutrients,119314650,public,conservation,"Turner and Klaus (2005), Costanza et al. (2014)"
