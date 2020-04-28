@@ -292,10 +292,10 @@ goods.plot <- ggplot(data = goods, aes(fct_relevel(factor, "private degradation"
   annotate("text", x = c(1.5,3.5,1,2,3,4), y = c(rep(9.66*10^8,2),rep(-9.66*10^8,4)),
            label = c("Private lens", "Public lens", "Degradation",
                      "Conservation", "Degradation", "Conservation"), size = 4.285714) +
-  labs(y = expression("US $ yr"^"−1")) +
+  labs(y = expression("US $ yr"^-1)) +
   scale_y_continuous(breaks = seq(-1000000000, 1000000000, by = 200000000),
-                     labels = c(expression("−10×10"^8),expression("−8×10"^8),expression("−6×10"^8),
-                                expression("−4×10"^8),expression("−2×10"^8),0, expression("2×10"^8), 
+                     labels = c(expression("-10×10"^8),expression("-8×10"^8),expression("-6×10"^8),
+                                expression("-4×10"^8),expression("-2×10"^8),0, expression("2×10"^8), 
                                 expression("4×10"^8),expression("6×10"^8),expression("8×10"^8),
                                 expression("10×10"^8))) +
   coord_cartesian(ylim = c(-910000000, 910000000)) +
