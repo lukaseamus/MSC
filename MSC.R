@@ -1,4 +1,4 @@
-##### Project: Unite seagrass conservation and tourism in Mauritius
+##### Project: Uniting seagrass conservation and tourism in Mauritius
 
 #### Required packages
 require(ggplot2)
