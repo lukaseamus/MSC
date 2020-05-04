@@ -1,2 +1,2 @@
 # MSC
-Files accompanying a poster on seagrass conservation in Mauritius
+Files accompanying the poster "Uniting seagrass conservation and tourism in Mauritius".
