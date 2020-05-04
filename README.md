@@ -14,7 +14,7 @@ This repository contains files accompanying the poster "Uniting seagrass conserv
 
 `goods.csv` contains economic data on the private and public costs/benefits of seagrass degradation/conservation underlying Figure 3 (see `Methods.pdf` for details).
 
-`tourists.csv` contains data obtained from a Tripadvisor search on "Mauritius" and "seagrass" (https://www.tripadvisor.co.uk/Search?q=seagrass&searchSessionId=32082531294ED0F1FC4D9BC4F8CADC561588599236524ssid&searchNearby=false&geo=293816&sid=C69FDCB111BCBCCEE97EC327697218251588599241765&blockRedirect=true). These data highlight tourists' mostly negative perception of seagrass and reveal the rationale behind seagrass meadow dredging.
+`tourists.csv` contains data obtained from a Tripadvisor search (https://www.tripadvisor.co.uk/Search?q=seagrass&searchSessionId=32082531294ED0F1FC4D9BC4F8CADC561588599236524ssid&searchNearby=false&geo=293816&sid=C69FDCB111BCBCCEE97EC327697218251588599241765&blockRedirect=true). These data highlight tourists' mostly negative perception of seagrass and reveal the rationale behind seagrass meadow dredging.
 
 **References**
 `References.pdf` contains all publications that were referred to on the poster and in the methods as well as an additional section with background reading.
