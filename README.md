@@ -11,7 +11,7 @@ This repository contains files accompanying the poster "Uniting seagrass conserv
 
 **Data**
 
-`locations.csv` contains the coordiantes for areas of seagrass damage or health around Mauritius. Together with `map.ggz` and several other shapefiles/geopackages (outlined in `Methods.pdf`), this file is required to plot Figure 1.
+`locations.csv` contains the coordiantes for areas of extraordinary seagrass damage or health around Mauritius. Together with `map.ggz` and several other shapefiles/geopackages (outlined in `Methods.pdf`), this file is required to plot Figure 1.
 
 `loss.csv` contains data that are relevant to the combinatorial meta-analysis of the effect of seagrass loss on ecosystem functions. It is necessary to plot Figure 2 (see `Methods.pdf` for details).
 
