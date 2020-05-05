@@ -21,7 +21,7 @@ This repository contains files accompanying the poster "Uniting seagrass conserv
 
 **References**
 
-`References.pdf` contains all publications that were referred to on the poster, in `Methods.pdf` and in the data files as well as an additional section with background reading.
+`References.pdf` contains all publications that were cited on the poster, in `Methods.pdf` and in the data files along with an additional section with background reading that was required for the completion of the project.
 
 Luka Seamus Wright
 
