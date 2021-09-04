@@ -1,5 +1,5 @@
 # MSC
-This repository contains files accompanying the poster "Uniting seagrass conservation and tourism in Mauritius".
+This repository contains data and R code accompanying the poster "Uniting seagrass conservation and tourism in Mauritius".
 
 **Methods**
 
